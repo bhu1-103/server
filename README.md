@@ -1,1 +1,4 @@
 # server
+
+[x] kavita 
+[ ] jelllyfin
